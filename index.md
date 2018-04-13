@@ -1,8 +1,8 @@
 ## Welcome to the ..................................................................... club!
 
-I really suck at coding, but somehow this is still working.
+Meeting time:
 
-Perpetually ready for a nap.
+Meeting place:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
